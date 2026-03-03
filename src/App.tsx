@@ -141,7 +141,7 @@ function App() {
                       </p>
                     </div>
                     <div className="p-6 pt-0 mt-auto">
-                      <a href={article.url} className="text-xs font-bold uppercase tracking-widest text-gray-400 group-hover:text-white transition flex items-center border-t border-gray-700/50 pt-4">
+                      <a href={article.url} target="_blank" rel="noopener noreferrer" className="text-xs font-bold uppercase tracking-widest text-gray-400 group-hover:text-white transition flex items-center border-t border-gray-700/50 pt-4">
                         Quellen-Details ansehen <span className="ml-2 transition-transform group-hover:translate-x-1">→</span>
                       </a>
                     </div>

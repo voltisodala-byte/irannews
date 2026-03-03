@@ -14,7 +14,7 @@ const mockNews: NewsArticle[] = [
     summary: 'Internationale Vermittler versuchen, die Spannungen in der Region durch neue Verhandlungen zu verringern. Ein Treffen in Genf wurde angekündigt.',
     date: '2026-03-03',
     source: 'Nachrichten-Ticker',
-    url: '#'
+    url: 'https://www.tagesschau.de'
   },
   {
     id: '2',
@@ -22,7 +22,7 @@ const mockNews: NewsArticle[] = [
     summary: 'Die ersten Hilfskonvois mit Lebensmitteln und Medikamenten sind in den betroffenen Regionen eingetroffen, während die Waffenruhe weitgehend hält.',
     date: '2026-03-02',
     source: 'Weltbericht',
-    url: '#'
+    url: 'https://www.dw.com'
   },
   {
     id: '3',
@@ -30,7 +30,7 @@ const mockNews: NewsArticle[] = [
     summary: 'Der Ölpreis steigt weiter an, während die globalen Märkte nervös auf die Entwicklungen im Nahen Osten reagieren. Experten fordern Stabilität.',
     date: '2026-03-02',
     source: 'Finanz-Kurier',
-    url: '#'
+    url: 'https://www.reuters.com'
   }
 ];
 
